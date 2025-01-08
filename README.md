@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Preetish! 
+🎓 MSBA Student at UCSD | Passionate about Products, Startup,s and Upskilling.
+Welcome to my GitHub profile! Here's a little about me:
 
-<!--
-**PARIKHPREETISH1/PARIKHPREETISH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 About Me:
 
-Here are some ideas to get you started:
+🎓 I’m currently a Business Analytics graduate student at the University of California, San Diego.
+💻 I’m passionate about *market analysis, business analytics, AI, Product Development, and Case Studies.
+🚀 I’ve worked on exciting projects in ed-tech, startups, and growth strategy.
+💡 I'm always keen to collaborate on innovative projects and solve real-world problems through technology.
+🌱 I’m learning about the intersection of **technology, innovation, and human development**.
+✍️ In my free time, I enjoy reading, traveling, and exploring new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to ask me about data analysis, startups, marketing and Product.
+
+## 🔗 Connect with Me
+💼 Linkedin: www.linkedin.com/in/preetish-parikh
+🌐 Portfolio: [Coming Soon!]
+📧 Reach me at prparikh@ucsd.edu or parikhpreetish1@gmail.com
+
+Skills:
+Languages: Python, HTML, CSS, VBA
+Tools: Pandas, NumPy, Canva, Git
+Interests: Data Analysis, Marketing, Ed-Tech, Consumer Behavior
+
+
